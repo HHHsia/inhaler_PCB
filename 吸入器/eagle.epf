@@ -1,0 +1,27 @@
+[Eagle]
+Version="09 06 02"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibraryUrn="urn:adsk.eagle:library:371"
+UsedLibraryUrn="urn:adsk.eagle:library:14809352"
+UsedLibraryUrn="urn:adsk.eagle:library:348"
+UsedLibraryUrn="urn:adsk.eagle:library:217"
+UsedLibraryUrn="urn:adsk.eagle:library:420"
+UsedLibrary="C:/Users/nimo0/Downloads/EAGLE_boy/下載的資料/libraries/all_in_one.lbr"
+UsedLibrary="C:/Users/nimo0/Downloads/EAGLE_boy/下載的資料/libraries/BM1383AGLV-ZE2.lbr"
+UsedLibrary="C:/Users/nimo0/Downloads/EAGLE_boy/下載的資料/libraries/E73-2G4M08S1C.lbr"
+UsedLibrary="C:/Users/nimo0/Downloads/EAGLE_boy/下載的資料/libraries/MPU-9250.lbr"
+UsedLibrary="C:/Users/nimo0/Downloads/EAGLE_boy/下載的資料/libraries/rcl-2.lbr"
+UsedLibrary="C:/Users/nimo0/Downloads/E73-2G4M08S1C.lbr"
+
+[Win_1]
+Type="Control Panel"
+Number=0
+
+[Desktop]
+Screen="3840 1271"
+Window="Win_1"
